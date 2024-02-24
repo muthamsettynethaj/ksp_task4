@@ -1,0 +1,26 @@
+alert("HI WELCOME TO MY PAGE!!")
+console.log("Welcome to this page!")
+
+
+let number1=7;
+let number2=9;
+let number3=15;
+
+console.log(number3);
+
+const number4=5;
+console.log(number4);
+
+let number5= 10;//integer
+let fnumber=43.43;//float
+let name="Nethaji";//string
+let char1="N";//character
+let bool=true;//boolean-true - flase
+
+//datatypes in javascript
+
+console.log(typeof(number5));
+console.log(typeof(fnumber));
+console.log(typeof(name));
+console.log(typeof(char1));
+console.log(typeof(bool));
